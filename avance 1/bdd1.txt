@@ -1,0 +1,4 @@
+1, nombre, 01/01/1899, 1I, 1, IA00
+95, Manuel Leyva R., 02/04/1953, 10I, 8, IVA95
+97, Manuel Leyva León, 03/03/2006, 10I, 8, IVA95
+98, José Pedro Leyva León, 16/01/1995, 10I, 8, IB96
