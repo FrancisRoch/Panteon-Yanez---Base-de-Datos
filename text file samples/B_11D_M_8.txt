@@ -1,0 +1,53 @@
+Raul Peterson E. , 01/01/1900 , 11D , 8 , IA01
+Manuela T. de Peterson , 01/01/1900 , 11D , 8 , IA01
+Viky E. Peterso , 01/01/1900 , 11D , 8 , IA01
+Ma Luisa Tanori de Peterson , 01/01/1995 , 11D , 8 , IA02
+G. Fam Peterson , 01/01/1900 , 11D , 8 , IIIC03
+Ines Yanez , 07/04/1953 , 11D , 8 , IB04
+Manuel de Jesus del Sol. Guevara , 02/05/1967 , 11D , 8 , IA05
+Guillermina Guevara Caperon , 25/02/2006 , 11D , 8 , IA05
+Ma. A. de Arredondo , 28/04/1973 , 11D , 8 , IA06
+Carlos Gonzalez de Arredondo , 16/03/1969 , 11D , 8 , IA06
+Ma Angeles de Gonzalez , 01/01/1900 , 11D , 8 , IA06
+Carlos Gonzalez Avila , 23/02/1979 , 11D , 8 , IA07
+Telesforo Sandoval Orosco , 31/05/1972 , 11D , 8 , IA08
+Luis Diego Murrieta Cordova , 12/10/1979 , 11D , 8 , IA09
+Delia Cordova de Murrieta , 28/04/1973 , 11D , 8 , IA09
+Diego Murrieta Vzla. , 24/12/1977 , 11D , 8 , IA10
+Emilia Murrieta Cordova , 20/04/1998 , 11D , 8 , IA11
+DESCONOCIDO , 01/01/1900 , 11D , 8 , IIID12
+DESCONOCIDO , 01/01/1900 , 11D , 8 , IIID13
+Consuelo Arredondo (DESCONOCIDO) , 20/08/1998 , 11D , 8 , IA14
+Ma Rafaela Borbon A. , 01/12/1978 , 11D , 8 , IA15
+DESCONOCIDO , 01/01/1900 , 11D , 8 , IC16
+DESCONOCIDO , 01/01/1900 , 11D , 8 , IC17
+Julia Aguilar , 01/01/1900 , 11D , 8 , IA18
+Ruben Flores , 21/02/1973 , 11D , 8 , IA19
+Jesus Naranjo , 28/03/1964 , 11D , 8 , IA20
+Ma Morales de Naranjo , 27/01/1952 , 11D , 8 , IA20
+DESCONOCIDO , 01/01/1900 , 11D , 8 , IIID21
+DESCONOCIDO , 01/01/1900 , 11D , 8 , ID22
+Jesus Mundo B. , 07/11/1984 , 11D , 8 , IA23
+Fco. Corrales Rios , 08/08/1971 , 11D , 8 , IA24
+Gertrudis G. Vda de Ramos , 01/05/1967 , 11D , 8 , IA25
+Jesus Alcantar Huaudurraga , 17/04/1978 , 11D , 8 , IA26
+Ma Teresa A. de Carranza , 13/04/1973 , 11D , 8 , IA27
+Rita Gutierrez , 01/01/1900 , 11D , 8 , IB28
+Ma Duarte Rosas de Sanchez , 19/07/1953 , 11D , 8 , IB29
+Concepcion Sanchez Duarte , 30/08/2004 , 11D , 8 , IB29
+Miguel Vega Olivas , 12/02/1959 , 11D , 8 , IA30
+DESCONOCIDO , 01/01/1900 , 11D , 8 , ID31
+DESCONOCIDO , 01/01/1900 , 11D , 8 , IC32
+Jose Ramon Leon Montoya , 01/01/1900 , 11D , 8 , IA33
+Lorenzo Perez Baeza , 26/12/1993 , 11D , 8 , IA34
+Fco Alonso Mundo Enriquez , 17/08/2006 , 11D , 8 , IA34
+DESCONOCIDO , 01/01/1900 , 11D , 8 , ID35
+Ma Dolores Torres Montoya , 01/01/1900 , 11D , 8 , IA36
+Ma Dolores Garcia , 01/01/1900 , 11D , 8 , IB37
+Ignacio Gonzalez , 24/01/1968 , 11D , 8 , IA38
+Ma Rosario Ramirez , 14/01/1995 , 11D , 8 , IA39
+Jose Fina Ramirez Leal , 16/04/1973 , 11D , 8 , IA39
+Jose Gpe. Roca Tores , 13/05/1970 , 11D , 8 , IB40
+Alberto Laborin , 21/10/1973 , 11D , 8 , IA41
+
+

@@ -1,0 +1,46 @@
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID1
+Aurelio Cesar Acuña , 30/10/1954 , 11I , 4 , IB2
+Guadalupe , 01/01/1900 , 11I , 4 , IB3
+Marcia Lorena Zazueta G. , 28/08/1954 , 11I , 4 , IA4
+Margarita Vidal , 20/11/1986 , 11I , 4 , ID5
+Alberto Vidal , 20/11/1986 , 11I , 4 , ID5
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID6
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID7
+DESCONOCIDO , 01/01/1900 , 11I , 4 , IC8
+Alfredo Alonso , 20/06/1954 , 11I , 4 , IB9
+Jesus Antonio Murrieta Espinoza , 21/04/1997 , 11I , 4 , IB10
+Jesus Romero , 22/12/1954 , 11I , 4 , IA11
+Rosa Armida Mendoza C. , 01/12/1954 , 11I , 4 , IA12
+Ma. de Jesus Lopez , 01/01/1900 , 11I , 4 , IB13
+Sergito Millon R. , 29/12/1954 , 11I , 4 , IA14
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID15
+Margarita Ramirez P.  , 01/07/1953 , 11I , 4 , IA16
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID17
+Fco. Nicolas Nuñez , 04/02/1955 , 11I , 4 , IA18
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID19
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID20
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID21
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID22
+DESCONOCIDO , 01/01/1900 , 11I , 4 , IC23
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID24
+Salvador Z.N. , 01/01/1900 , 11I , 4 , IB25
+Andres A. Ramirez (DESCONOCIDO) , 01/01/1900 , 11I , 4 , IA26
+Rafael C. Ramirez (DESCONOCIDO) , 01/01/1900 , 11I , 4 , IA26
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID27
+Ma de la Luz Margarita Mendoza , 17/01/1966 , 11I, 4 , IA28
+DESCONOCIDO , 01/01/1900 , 11I , 4 , IC29
+Josefina Andrade Lora , 03/01/1955 , 11I , 4 , IA30
+Fco. Javier Molina , 19/05/1955 , 11I , 4 , IA31
+Ma. del Rosario Santeliz , 01/01/1900 , 11I , 4 , IB32
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID33
+Jesus Alejandro Loustanau G. , 01/04/1955 , 11I , 4 , IA34
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID35
+Arturo Laguna , 03/04/1955 , 11I , 4 , IA36
+Angel Acedo Ruiz , 29/06/2008 , 11I , 4 , IA36
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID37
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID38
+Jose Castro B. , 18/08/1955 , 11I , 4 , ID39
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID40
+DESCONOCIDO , 01/01/1900 , 11I , 4 , IC41
+DESCONOCIDO , 01/01/1900 , 11I , 4 , ID42
+

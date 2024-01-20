@@ -1,0 +1,36 @@
+Juana Vazquez de Moreno , 29/01/1989 , 11I , 6 , IA103
+Ma. Luisa Moreno Vasquez , 27/10/1955 , 11I , 6 , IA103
+DESCONOCIDO , 01/01/1900 , 11I , 6 , IC104
+DESCONOCIDO , 01/01/1900 , 11I , 6 , ID105
+Ramona Lopez , 20/02/1972 , 11I , 6 , IA106
+Leonor Moreno H. , 19/02/1974 , 11I , 6 , IA107
+FAM MORENO VAZQUEZ PORF. , 01/01/1900 , 11I , 6 , IB108
+DESCONOCIDO , 01/01/1900 , 11I , 6 , IC109
+DESCONOCIDO , 01/01/1900 , 11I , 6 , IC110
+Juanito Gpe Goloz , 20/10/1972 , 11I , 6 , IA111
+DESCONOCIDO , 01/01/1900 , 11I , 6 , IC112
+DESCONOCIDO , 01/01/1900 , 11I , 6 , IC113
+Ma. Jesus Castañeda , 25/05/1974 , 11I , 6 , IA114
+Maria Gpe Rodrigez Lopez , 10/01/1988 , 11I , 6 , IA115
+DESCONOCIDO , 01/01/1900 , 11I , 6 , ID116
+DESCONOCIDO , 01/01/1900 , 11I , 6 , ID117
+DESCONOCIDO , 01/01/1900 , 11I , 6 , ID118
+Fabian Ernesto Toledo Garcia , 29/02/1972 , 11I , 6 , IB119
+Martha Eudolia Renteria M. , 01/01/1900 , 11I , 6 , IB120
+Gloria Isabel V. , 20/12/1955 , 11I , 6 , IA121
+Gpe Duarte , 14/12/1956 , 11I , 6 , IA122
+Alfonso Duarte , 10/02/1958 , 11I , 6 , IA122
+DESCONOCIDO , 01/01/1900 , 11I , 6 , ID123
+Angelita Trujillo de Olivos , 30/11/1987 , 11I , 6 , VA124
+Trinidad Morales vda de Trujillo , 14/05/1978 , 11I , 6 , VA124
+Ruben Solorzono Flores , 22/08/1995 , 11I , 6 , IA125
+Ponchita Flores de Huerta , 26/05/1978 , 11I , 6 , IA125
+Reyna Isabel Torres , 18/02/1967 , 11I , 6 , IA126
+Gpe Calles Soqui , 18/02/1972 , 11I , 6 , IA127
+Miguel Angel Navarro P. , 26/10/1977 , 11I , 6 , IA128
+Miguel Angel Navarro R. , 26/10/1977 , 11I , 6 , IA128
+DESCONOCIDO , 01/01/1900 , 11I , 6 , ID129
+DESCONOCIDO , 01/01/1900 , 11I , 6 , ID130
+
+
+
