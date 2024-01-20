@@ -1,0 +1,51 @@
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\CDDProject.exe.config
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\CDDProject.exe.manifest
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\CDDProject.application
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\CDDProject.exe
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\CDDProject.pdb
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\CsvHelper.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\Microsoft.Bcl.HashCode.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\System.Buffers.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\System.Memory.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\System.Numerics.Vectors.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\bin\Final\System.Threading.Tasks.Extensions.xml
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.AssemblyReference.cache
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.MyCsvClassMap.resources
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.Properties.Resources.resources
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.GenerateResource.cache
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.CoreCompileInputs.cache
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.Fody.CopyLocal.cache
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.exe.manifest
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.application
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.CopyComplete
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.exe
+C:\Users\kapig\source\repos\CDDProject\CDDProject\obj\Final\CDDProject.pdb
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\CDDProject.exe.config
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\CDDProject.exe.manifest
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\CDDProject.application
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\CDDProject.exe
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\CDDProject.pdb
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\CsvHelper.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\Microsoft.Bcl.HashCode.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\System.Buffers.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\System.Diagnostics.DiagnosticSource.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\System.Memory.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\System.Numerics.Vectors.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\bin\Final\System.Threading.Tasks.Extensions.xml
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.AssemblyReference.cache
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.MyCsvClassMap.resources
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.Properties.Resources.resources
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.GenerateResource.cache
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.Fody.CopyLocal.cache
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.exe.manifest
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.application
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.csproj.CopyComplete
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.exe
+D:\Visual Studio Repos\CDDProject\CDDProject\obj\Final\CDDProject.pdb
